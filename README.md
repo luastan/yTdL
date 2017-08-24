@@ -1,4 +1,3 @@
 # yTdL
-Scrapping tool to download youtube videos in mp3 from Youtubeinmp3.
 
-To install. execute ./setup.py install
+Downloads the audio from given youtube links and converts them to mp3 using FFMPEG.  Youtube-dl does not add the album cover propperly so I did this as a workaround.
